@@ -1,0 +1,40 @@
+Prompt Title: Rare Car with Arre Background — AI Workflow Prompt
+
+Purpose:
+Create a clear, actionable prompt for generating a high-quality image or video of a rare car set against an arre background. The prompt should be ready for use in AI image generation pipelines, 3D rendering, or automation systems.
+
+Prompt Structure:
+1) Objective
+- Produce a photorealistic render of a rare car with an arre background that emphasizes exclusivity and craftsmanship.
+
+2) Subject Details
+- Car: A rare, exclusive model. Avoid using brand names or real trademarks unless provided by the user.
+- Mood: Elegant, enigmatic, and premium.
+- Color and finish: Metallic or pearlescent finish with subtle, natural reflections.
+
+3) Background (arre background)
+- Describe arre background accurately and vividly. If arre implies an arresting or dramatic setting, specify elements such as lighting contrast, depth, and color palette. Suggested palette: deep charcoals, electric blues, and warm amber highlights. Include environmental elements (e.g., architectural lines, urban glow, or desert horizon) that reinforce rarity and prestige.
+
+4) Lighting and Camera
+- Lighting: Studio-like key light with soft fill; optional rim light to outline the silhouette.
+- Mood lighting: High-contrast, cinematic, with subtle colored reflections on the car surface.
+- Camera: Low to mid-angle, 35mm to 50mm equivalent; shallow depth of field to isolate the car; detailed reflection capture on curves.
+- Frame composition: Centered on car silhouette, negative space to emphasize exclusivity; ensure horizon and background elements align with perspective.
+
+5) Technical Requirements
+- Resolution: 8K or 7680x4320; deliver PNG or TIFF.
+- Output: High-detail front3/side3/3-quarter renders; provide layers/passes if applicable (albedo, specular, normal, depth).
+- Style references: cinematic automotive photography, macro detail shots, and refined luxury catalogs.
+
+6) Constraints and Acceptance Criteria
+- No visible brand logos or trademarks unless user-provided.
+- Realistic materials: metal, glass, rubber, leather; accurate specular highlights and micro-surface details.
+- Color accuracy and tonal range to maintain realism across lighting conditions.
+- The final prompt should be deterministic and reusable in AI workflows.
+
+7) Example Prompt (for reference, replace with car-specific details when available):
+- Generate a photorealistic 8K render of a rare luxury car with an arre background, matte-black body with chrome trim, neon urban arre background with warm amber highlights, cinematic lighting, 3-quarter view, shallow depth of field, 8K PNG with layered passes.
+
+Notes:
+- Replace placeholders with actual car details if provided.
+- Maintain professional tone suitable for design brief or automation pipeline.
