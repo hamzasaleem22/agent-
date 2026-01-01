@@ -1,0 +1,15 @@
+Rolls-Royce Phantom in a rare color variant with a futuristic, premium aesthetic.
+
+Prompt for AI image generation:
+
+Title: Rolls-Royce Phantom – Iridéscent Aurora Frame Color
+Subject: A Rolls-Royce Phantom, showcased in a rare, color-shifting frame color that changes subtly with light (iridescent aurora pearl, blue-green to violet spectrum). Luxury sedan, 4-door silhouette, distinctive Spirit of Ecstasy badge visible.
+Setting: Studio-like environment with controlled, cinematic lighting; shallow depth of field; reflections on a glossy, mirror-like surface.
+Composition: Three-quarter view (slightly from the front), centered in frame, slight tilt to reveal the long hood and iconic grill; wheels and cabin details visible but not overpowering.
+Color and lighting: Iridescent frame color with a metallic pearl base; soft rim lighting; reflections of softbox-like squares on ground; color shifts with angle (0-45 degrees) to emphasize gradient.
+Style: Hyperreal CGI rendering, ultra-high detail, 8K quality, crisp texture on leather seats and grill; high-dynamic-range lighting; cinematic depth of field; subtle motion blur if slight movement is implied.
+Texture and details: Chrome accents, Spirit of Ecstasy in chrome, black grille; leather interior visible through windows; precise badge rendering; paint finish shows micro-scratches and reflections for realism.
+Mood and storytelling: Quiet luxury, timeless elegance, futuristic refinement; no human figures; emphasis on craftsmanship and exclusivity.
+Notes for generators: Ensure safe, legal, and licensed 3D models or photorealistic rendering references; avoid brand misuse or trademark issues beyond generic depiction.
+
+Usage: This prompt is optimized for AI image generation workflows that support descriptive prompts, style instructions, and composition cues.
