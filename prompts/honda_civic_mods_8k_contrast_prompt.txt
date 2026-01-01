@@ -1,0 +1,45 @@
+Prompt: High-Quality 8K Image Prompt for a Honda Civic with Extensive Modifications (Contrast Theme)
+
+Objective:
+Create a photorealistic, 8K-resolution image of a Honda Civic that showcases a comprehensive set of modifications. The theme emphasizes strong contrast between the car color and the accents, delivering a visually striking, performance-oriented stance.
+
+Car and color scheme:
+- Model: Honda Civic (10th/11th generation aesthetic, clearly identifiable features such as badge shape, headlights, and silhouette).
+- Primary color: Deep, glossy black (or near-black) body.
+- Accent color: Electric lime green accents for trim, aero components, brake calipers, and interior stitching.
+- Finish: Ultra-high gloss on body panels with subtle pearlescent flake to catch light; matte accents only where intentional (e.g., roof panels, spoiler lip) for contrast.
+
+Modifications to include (comprehensive list, visually prioritized):
+- Aerodynamics: widebody kit, flared fenders, carbon fiber front splitter, side skirts, rear diffuser, large rear wing; vented hood or performance hood with heat extraction vents.
+- Wheels and brakes: lightweight multi-piece forged wheels with aggressive offset; high-performance ceramic brakes with visible calipers in lime green; performance tires with clear tread detail.
+- Suspension: lowered ride height with adjustable coilovers; subtle negative camber at the front for aggressive stance.
+- Exterior details: carbon fiber mirror caps, etched grille, neon lime green edge lighting or ambient door sills; door handles and trim color-matched where appropriate.
+- Lighting and reflections: PRISTINE HDR lighting to reveal reflective surfaces; front lighting should emphasize projector LEDs; add subtle backlit glow around accents.
+- Interior (visible through windows): sport seats with lime stitching, carbon fiber steering wheel, digital gauges showing boost/torque, lime-green seatbelts or stitching accents.
+- Engine bay (slightly visible through open hood): clean, organized layout with performance intake and valve cover accents in lime green; chrome or ceramic-coated components with meticulous detailing.
+- Badging: discrete, tasteful performance badges (e.g., Type-R inspired cues) without overpowering the Civic identity.
+
+Environment and composition:
+- Camera: 35mm equivalent, slightly low angle for a dominant stance.
+- Composition: three-quarter front view with a touch of rear 3/4 to highlight widebody and rear aero.
+- Setting: urban street at golden hour with shallow depth of field; reflective wet pavement or glossy ground to enhance reflections, subtle bokeh in the background.
+- Lighting: natural warm tones from golden hour; rim lighting on the car edges to emphasize silhouette; ensure lime green accents pop without overpowering the scene.
+
+Resolution and quality:
+- Target resolution: 8K (7680 × 4320)
+- Output: photorealistic, ultra-detailed textures (carbon fiber weave, paint flake, tire tread, brake rotor detail)
+- Noise: minimal; ensure clean, crisp edges for all modifications
+
+Prompt brevity and consistency guidelines:
+- Use clear, concrete nouns and adjectives; avoid vague terms.
+- Keep a single-pass prompt body with hierarchical bullet points for readability.
+- Maintain a professional, technical tone suitable for AI image generators.
+
+Usage notes:
+- This prompt is intended to guide an image-generation model to produce a single, final 8K render suitable for portfolio usage.
+- If the model supports style presets, apply a photorealistic, high-contrast preset in tandem with the above details.
+
+Optional variants:
+- If you want an alternate color-contrast pairing, swap to a satin white body with electric blue accents, preserving the same modification list and composition.
+
+End of prompt.
