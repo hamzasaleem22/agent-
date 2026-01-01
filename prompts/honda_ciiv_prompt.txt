@@ -1,0 +1,23 @@
+Honda Civic Image Prompt
+
+Purpose: Generate a photorealistic, AI-ready prompt for creating a high-quality Honda Civic render. This prompt is crafted for studio/product visualization workflows and should yield a book-cover quality image suitable for marketing assets.
+
+Prompt:
+- Subject: Honda Civic sedan, refined and athletic, in a photoreal studio render.
+- View: Front three-quarter angle, slight low camera tilt for a dominant stance.
+- Lighting: Softbox key light at 45° to the subject, fill light on opposite side, subtle backlight to separate from background. High dynamic range with controlled specular highlights on the body panels.
+- Environment: Neutral seamless studio backdrop with a cool gray gradient (from #eceff4 to #cfd6e0). Floor reflection subtle, not overpowering.
+- Camera: 50mm equivalent focal length, aperture f/8, ISO 100, shutter 1/125s for a crisp, noise-free image.
+- Styling: Glossy red paint (e.g., Rallye Red), clean wheels, visible Honda badge on grille and trunk, no branding clutter.
+- Details: Accurate wheel design, brake calipers, tire texture, and subtle badge reflections. Include crisp reflections of studio lighting on bodywork.
+- Resolution: 4K (3840x2160) output, color space sRGB, exported as PNG with transparent background where applicable.
+- Output prompts: Include a descriptive alt-text for accessibility and a sample caption suitable for marketing.
+
+How to use:
+1) Feed this prompt into your preferred AI image generation model.
+2) Review for alignment with brand guidelines (Honda visual identity) and adjust lighting and pose if needed.
+3) Upscale to 4K and compress for web use if required.
+
+Notes:
+- Do not include any third-party branding beyond Honda.
+- Maintain clean, professional aesthetics consistent with Honda marketing.
