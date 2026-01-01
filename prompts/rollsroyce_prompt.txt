@@ -1,0 +1,20 @@
+Professional AI prompt for image generation:
+
+Title: Rolls-Royce Car in a Rare Iridescent Frame Color with Futuristic Theme
+Description: A hyper-detailed, photorealistic render of a Rolls-Royce automobile showcasing a rare, color-shifting frame color. The image should emphasize luxury, precision engineering, and a futuristic, cinematic ambiance.
+
+Prompt for AI image generator:
+
+- Subject: Rolls-Royce automobile (e.g., Rolls-Royce Phantom or Dawn) parked at a slight three-quarter angle to showcase the length of the body, iconic grille, Spirit of Ecstasy emblem, and distinctive coach doors where applicable.
+- Color & Finish: Rare, color-shifting iridescent frame color transitioning between deep sapphire blue and emerald green under different lighting; ultra-glossy, reflective metallic paint with subtle pearlescent flecks. Chrome and brushed-metal accents on grille, badges, wheels.
+- Lighting: Studio-quality three-point lighting with soft fill to maximize reflections on the body panels; controlled reflections to reveal contours; highlight speculars on chrome and glass.
+- Environment: Minimalistic, high-contrast backdrop with a dark gradient that transitions to a warm spotlight behind the car; optional subtle mist for depth.
+- Mood & Theme: Luxury automotive portrait with a hint of sci-fi futurism; clean, precise, and elegant.
+- Composition: Wide horizontal frame, camera at eye level or slightly low (about 10-15 degrees) for a powerful stance; the Rolls-Royce is centered with generous negative space on the sides; ensure the Spirit of Ecstasy is visible but not overpowering.
+- Camera & Detail: 50-85mm equivalent focal length, f/2.8-f/4 for shallow to moderate depth of field; render at 8k realism; high-resolution textures (paint, leather, metal, glass); micro-details on grill texture and emblem.
+- Style Reference: Photorealistic automotive portrait, cinematic lighting, subtle film grain, and crisp edge details; avoid over-saturation and maintain accurate reflections.
+- Output: A single, high-resolution image suitable for marketing materials and product visuals.
+
+Format: The final output should be a ready-to-render prompt for an AI image generator, with no placeholders and clear, actionable instructions.
+
+End of prompt.
