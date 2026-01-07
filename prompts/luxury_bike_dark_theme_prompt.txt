@@ -1,0 +1,70 @@
+AI Image Prompt for Luxurious Bike in Dark Theme
+
+Task:
+- Create a hyper-detailed, photorealistic image of a luxurious motorcycle/bike with a dark, moody theme. The bike is the central subject; the environment is sleek, urban, or studio-lit with subtle neon hints. The prompt is optimized for high-end, cinematic renders.
+
+Subject & Concept
+- Primary Subject: A premium, futuristic luxury bike (motorcycle) with flawless engineering lines, premium materials, and a design-forward silhouette. Emphasize exclusivity: limited edition, impeccable craft, refined details.
+- Core Idea: A night-time showcase of craftsmanship, where light and shadow reveal the bike’s materials and textures, conveying power, elegance, and aspiration.
+
+Environment & Setting
+- Location: Dimly lit, upscale urban alley or glossy showroom with dark surfaces, or a black-box studio with controlled lighting.
+- Background: Soft gradient dark tones (charcoal to near-black) with subtle architectural hints, reflective floors, and minimal clutter to emphasize the bike.
+- Spatial Context: Low-angle perspective that makes the bike appear dominant; foreground may include shallow reflections on a polished surface; depth of field blurs the background slightly to isolate subject.
+
+Mood & Emotion
+- Mood: Mysterious, luxurious, and aspirational; quiet power; confident presence; exclusive vibe.
+- Emotion: Awe, desire, and admiration for craftsmanship.
+
+Lighting
+- Source: Controlled studio-like lighting with key light and rim light; optional low-intensity ambient city glow in the background.
+- Direction: Raking light from a slight 3/4 angle to carve the form; rim light to highlight silhouette; subtle fill to preserve details.
+- Intensity & Quality: Soft yet defined; medium-high contrast; light wrap to avoid flat shadows.
+- Cinematic Effects: Gentle volumetric glow around exhaust, fine sparkles on chrome, subtle bloom on neon accents; depth of field haze.
+
+Color Palette & Mood
+- Primary Colors: Matte deep black, obsidian, and gunmetal.
+- Secondary Colors: Charcoal gray, midnight blue undertones.
+- Accents: Rich bronze or brass micro-accents, subtle emerald or sapphire neon accents, metallic chrome highlights.
+- Balance: Luxurious, cool-toned palette with warm metallic highlights to enhance premium feel.
+
+Materials & Textures
+- Surfaces: Matte black panels, glossy lacquered accents, brushed metal (aluminum or titanium) with fine grain.
+- Fabrics/Materials: If any upholstery, premium carbon-sateen texture or quilted leather in dark tones.
+- Finishes: Chrome, polished aluminum, carbon fiber weave on body panels, leather grips.
+- Reflections: High-gloss lacquer, micro-sand texture on tires, subtle reflections on floor.
+
+Material & Light Interaction
+- Light interacts: Specular highlights on chrome and brushed metal; soft glow on neon accents; reflections on glossy panels; matte surfaces absorb light for depth.
+- Finishes: Combination of matte and glossy to create visual contrast; subtle fingerprint-free surfaces.
+
+Perspective & Composition
+- Camera Angle: Low-angle, slightly from the front/side to emphasize stance and wheel detail.
+- Framing: Centered subject with slight negative space on one side; dynamic balance with bike slightly off-center for tension.
+- Depth of Field: Shallow to moderate; foreground ground reflections, background softly blurred.
+- Foreground/Background Interaction: Polished floor reflections, ambient glow in distance.
+- Symmetry vs. Dynamic: Mostly asymmetrical for dramatic effect; balanced hardware lines lead the eye along the bike.
+
+Style & Aesthetic
+- Style: Luxury, cinematic, hyper-realistic, concept-art feel with a modern, futuristic edge.
+- Aesthetic: Premium craftsmanship, limited-edition allure, high-end design cues.
+
+Detail Level & Visual Quality
+- Resolution/Quality: Ultra-detailed, photorealistic, 8k-ready, masterpiece polish.
+- Detail: Visible stitching on leather, micro-textures on carbon fiber, fine engravings, badge textures.
+
+Rarity & Value Cues
+- Indications: Exclusive badge, serial engraving, rare materials; premium branding.
+
+Motion & Energy
+- If motion is implied: Slight subtle motion blur on wheel or exhaust to imply readiness; otherwise stillness with a sense of potential energy.
+
+Story & Context
+- Narrative: A masterfully crafted machine prepared for a ceremonial reveal, embodying the pinnacle of luxury bikes.
+
+Atmosphere & Visual Effects
+- Atmosphere: Fog-like diffusion with bokeh or light speckles; ambient neon haze; reflections in storefront glass; golden-hour-like glow from distant sources.
+- Effects: Subtle particles in air to emphasize depth; light bloom around neon accents.
+
+Output Note
+- The image should feel like a high-end product shot, suitable for a luxury automotive campaign, with cinematic composition and editorial polish.
